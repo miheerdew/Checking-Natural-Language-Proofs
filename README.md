@@ -12,7 +12,6 @@ Also, how do we take the error messages from the formal lanaguge system and tran
 
 - [ ] Can we design a system that can find potential errors in a proof? For instance, we could start with system that just proof-reads english text (no mathematics). 
 - [ ] Can we design a system to translate Natural Lanaguage proofs to Machine Language proof
-- [ ] https://www.timeshighereducation.com/campus/simple-hack-chatgptproof-assignments-using-google-drive
 
 
 # Relevant Resources 
@@ -25,4 +24,6 @@ Also, how do we take the error messages from the formal lanaguge system and tran
 6. https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00503/113022/ProoFVer-Natural-Logic-Theorem-Proving-for-Fact
 7. https://mathscholar.org/2023/02/can-chatgpt-prove-math-theorems/
 8. https://arxiv.org/pdf/2301.13867.pdf
+9. https://www.timeshighereducation.com/campus/simple-hack-chatgptproof-assignments-using-google-drive
+
 
