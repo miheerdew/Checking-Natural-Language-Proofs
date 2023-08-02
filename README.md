@@ -10,3 +10,6 @@ I think that the problem of checking proofs ought to be easier than the problem 
 1. [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://arxiv.org/pdf/2306.15626.pdf)
 2. https://medium.com/@xiupp2005/integrating-chatgpt-with-proof-assistant-56a49347a549
 3. https://proofassistants.stackexchange.com/questions/2053/make-chatgpt-write-formal-proof-from-natural-language-proof
+4. https://github.com/princeton-nlp/NLProofS, https://arxiv.org/pdf/2205.12443v1.pdf
+5. https://math.stackexchange.com/questions/403163/natural-language-proof-assistant
+6. https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00503/113022/ProoFVer-Natural-Logic-Theorem-Proving-for-Fact
