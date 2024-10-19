@@ -25,6 +25,6 @@ Also, how do we take the error messages from the formal lanaguge system and tran
 7. https://mathscholar.org/2023/02/can-chatgpt-prove-math-theorems/
 8. https://arxiv.org/pdf/2301.13867.pdf
 9. https://www.timeshighereducation.com/campus/simple-hack-chatgptproof-assignments-using-google-drive
-10. [Nautral Langauge Proof Checking for education](https://arxiv.org/pdf/2202.08131)
+10. Natural Langauge Proof Checking for education: https://arxiv.org/pdf/2202.08131, https://icr.uni.lu/mcramer/downloads/SDV.pdf 
 
 
